@@ -1,6 +1,6 @@
 ## Chaoyu Shi (石超宇)
 
-I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. 
+I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. </br>
 **Tutor**: Prof. Dr. [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and Prof. Dr. [Pengjie Ren](https://pengjieren.github.io/).
 
 The research direction of mine is **Conversational Search**.
