@@ -22,6 +22,7 @@
 - 2020 ：National Endeavor Fellowship
 - 2021 ：Member of the Organizing Committee of the 18th National Symposium on young scholars of natural language processing (YSSNLP2021)
 - 2021 :  Outstanding graduates of Shandong University
+- 2021：Member of the Organizing Committee of the 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC2021)
 
 ## Educational experience
 
@@ -34,6 +35,13 @@
 #### **Academic Postgraduate:**
 
 - 2021- now  : Information Retrieval Laboratory , School of Computer science and technology, Shandong University
+
+## Teaching experience
+- 2020 Spring : Operating System course teaching assistant 
+- 2021 Spring : Teaching Assistant for Natural Language Processing Course
+- 2021 Autumn : Operating system course teaching assistant
+- 2022 Spring : Teaching Assistant for Natural Language Processing Course
+
 
 
 ## Contact
